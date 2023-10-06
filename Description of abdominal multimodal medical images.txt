@@ -1,0 +1,82 @@
+Description of abdominal multimodal medical images 
+***************************************************************************************************************************************************
+CT/PET pairs  
+***************************************************************************************************************************************************
+病例1
+General                          CT Series                                       PET Series                                          
+Age	56                       Device  Siemens biograph 64                     Device  Siemens biograph 64  
+Sex	Female                   CT scanning mode   planar acquisition           PET scanning mode    planar acquisition  
+Height	162 cm                   Slice thickness  1.5mm                          Slice thickness 1.5mm 
+Weight	58 kg                    kv   100                                        kv      120
+Ethnicity China                  mA   100                                        mA      130
+                                 Sampling   100%                                 Sampling   100%                                           
+                                 Num images   93                                 Num images   93
+                                 Row       256                                   Row        256 
+                                 Column    256                                   Column     256 
+                                 Default value   Spine                           Default value      Spine 
+                                                                                 Drug injection     18F-FDG
+                                                                                 Injection volume   5.21mCi   0.45ml
+                                                                                 LUT     X_rain
+
+***************************************************************************************************************************************************
+病例2
+General                          CT Series                                       PET Series                                          
+Age	51                       Device  Siemens biograph 64                     Device  Siemens biograph 64   
+Sex	Male                     CT scanning mode   planar acquisition           PET scanning mode    planar acquisition  
+Height	173 cm                   Slice thickness  1.5mm                          Slice thickness 1.5mm 
+Weight	65 kg                    kv   100                                        kv     120
+Ethnicity China                  mA   100                                        mA     130
+                                 Sampling   100%                                 Sampling   100%                                           
+                                 Num images  236                                 Num images  236
+                                 Row       256                                   Row        256 
+                                 Column    256                                   Column     256 
+                                 Default value   Spine                           Default value      Spine 
+                                                                                 Drug injection     18F-FDG
+                                                                                 Injection volume   5.21mCi   0.45ml
+                                                                                 LUT     X_rain
+
+***************************************************************************************************************************************************
+MR-T1/MR-T2 pairs  
+***************************************************************************************************************************************************
+病例1
+General                          MR-T1 Series                                    MR-T2 Series                                          
+Age	62                       Device  Philips 3.0T                            Device  Philips 3.0T
+Sex	Male                     MR-T1 scanning mode   planar acquisition        MR-T2 scanning mode    planar acquisition  
+Height	170 cm                   Slice thickness  2.5mm                          Slice thickness  2.5mm 
+Weight	58 kg                    TR   500ms                                      TR   3000ms
+Ethnicity China                  TE   20ms                                       TE   100ms
+                                 Sampling   100%                                 Sampling   100%                                           
+                                 Num images  27                                  Num images  27
+                                 Row       256                                   Row        256 
+                                 Column    256                                   Column     256 
+                                 Default value   Spine                           Default value      Spine 
+
+***************************************************************************************************************************************************
+病例2
+General                          MR-T1 Series                                    MR-T2 Series                                          
+Age	57                       Device  GE 1.5T                                 Device  GE 1.5T 
+Sex	Female                   MR-T1 scanning mode   planar acquisition        MR-T2 scanning mode    planar acquisition  
+Height	155 cm                   Slice thickness  2.5mm                          Slice thickness  2.5mm 
+Weight	46 kg                    TR   450ms                                      TR   3500ms
+Ethnicity China                  TE   10ms                                       TE   100ms
+                                 Sampling   100%                                 Sampling   100%                                           
+                                 Num images  25                                  Num images  25
+                                 Row       256                                   Row        256 
+                                 Column    256                                   Column     256 
+                                 Default value   Spine                           Default value      Spine
+                  
+***************************************************************************************************************************************************
+病例3
+General                          MR-T1 Series                                    MR-T2 Series                                          
+Age	48                       Device  GE 1.5T                                 Device  GE 1.5T 
+Sex	Male                     MR-T1 scanning mode   planar acquisition        MR-T2 scanning mode    planar acquisition  
+Height	177 cm                   Slice thickness  2.5mm                          Slice thickness  2.5mm 
+Weight	80 kg                    TR   450ms                                      TR   3500ms
+Ethnicity China                  TE   10ms                                       TE   100ms
+                                 Sampling   100%                                 Sampling   100%                                           
+                                 Num images  22                                  Num images  22
+                                 Row       256                                   Row        256 
+                                 Column    256                                   Column     256 
+                                 Default value   Spine                           Default value      Spine                                                                           
+
+
